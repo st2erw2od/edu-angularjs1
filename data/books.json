@@ -1,0 +1,171 @@
+[
+	{
+		"Id" : "001",
+		"Title" : "Praxisbuch Ubuntu Server 14.04 LTS",
+		"Subtitle" : "Schritt für Schritt zum eigenen Home- oder Firmenserver",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Betriebssysteme"
+	}, {
+		"Id" : "002",
+		"Title" : "CSS",
+		"Subtitle" : "Das umfassende Handbuch",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "003",
+		"Title" : "Einstieg in PHP 5.6 und MySQL 5.6",
+		"Subtitle" : "Schnell und einfach dynamische Webseiten entwickeln",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "004",
+		"Title" : "Apps mit HTML5 und CSS3",
+		"Subtitle" : "Für iPhone, iPad und Android",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "005",
+		"Title" : "Professionell entwickeln mit Java EE 7",
+		"Subtitle" : "Das umfassende Handbuch",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "006",
+		"Title" : "Linux-Kommandoreferenz",
+		"Subtitle" : "Shell-Befehle von A bis Z",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Betriebssysteme"
+	}, {
+		"Id" : "007",
+		"Title" : "Node.js",
+		"Subtitle" : "Serverseitige Webapplikationen mit JavaScript entwickeln",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "008",
+		"Title" : "jQuery",
+		"Subtitle" : "Das umfassende Handbuch",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "009",
+		"Title" : "IT-Projektmanagement",
+		"Subtitle" : "Was wirklich funktioniert - und was nicht",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Projektmanagement"
+	}, {
+		"Id" : "010",
+		"Title" : "Zend Framework 2",
+		"Subtitle" : "Webanwendungen mit dem PHP-Framework",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "011",
+		"Title" : "WildFly 8",
+		"Subtitle" : "Das Handbuch für Entwickler, Administratoren und Software-Architekten",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Software"
+	}, {
+		"Id" : "012",
+		"Title" : "Fortgeschrittene CSS-Techniken",
+		"Subtitle" : "inkl. CSS-Debugging und Performance-Optimierung",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "013",
+		"Title" : "Java ist auch eine Insel",
+		"Subtitle" : "Einführung, Ausbildung, Praxis",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "014",
+		"Title" : "Android 4",
+		"Subtitle" : "Apps entwickeln mit dem Android SDK",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "015",
+		"Title" : "AngularJS",
+		"Subtitle" : "Eine praktische Einführung in das JavaScript-Framework",
+		"Publisher" : "dPunkt",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "016",
+		"Title" : "Google AdWords",
+		"Subtitle" : "Effektiver Aufbau Ihrer Kampagnen und Anzeigengruppen",
+		"Publisher" : "bhv / mitp",
+		"Genre" : "Marketing"
+	}, {
+		"Id" : "017",
+		"Title" : "HTML 5",
+		"Subtitle" : "Praxisnahen Einstieg in HTML 5",
+		"Publisher" : "bhv / mitp",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "018",
+		"Title" : "Design Patterns",
+		"Subtitle" : "Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software",
+		"Publisher" : "bhv / mitp",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "019",
+		"Title" : "PHP Design Patterns",
+		"Subtitle" : "Entwurfsmuster für die Praxis. Aktuell zu PHP 5.3",
+		"Publisher" : "O'Reilly Vlg. GmbH & Co.",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "020",
+		"Title" : "Software-Architekturen für Verteilte Systeme",
+		"Subtitle" : "Prinzipien, Bausteine und Standardarchitekturen für moderne Software",
+		"Publisher" : "Springer",
+		"Genre" : "Informatik"
+	}, {
+		"Id" : "021",
+		"Title" : "Kryptographie und IT-Sicherheit",
+		"Subtitle" : "Grundlagen und Anwendungen",
+		"Publisher" : "Vieweg+Teubner Verlag",
+		"Genre" : "Informatik"
+	}, {
+		"Id" : "022",
+		"Title" : "Maven 3",
+		"Subtitle" : "Konfigurationsmanagement mit Java",
+		"Publisher" : "bhv / mitp",
+		"Genre" : "Programmiersprachen"
+	}, {
+		"Id" : "023",
+		"Title" : "Qualitätssicherung durch Softwaretests",
+		"Subtitle" : "Vorgehensweisen und Werkzeuge zum Test von Java-Programmen",
+		"Publisher" : "Vieweg+Teubner Verlag",
+		"Genre" : "Informatik"
+	}, {
+		"Id" : "024",
+		"Title" : "Git",
+		"Subtitle" : "Verteilte Versionsverwaltung für Code und Dokumente",
+		"Publisher" : "Open Source Press",
+		"Genre" : "Software"
+	}, {
+		"Id" : "025",
+		"Title" : "Mobile Usability",
+		"Subtitle" : "Für iPhone, iPad, Android und Kindle",
+		"Publisher" : "bhv / mitp",
+		"Genre" : "Informatik"
+	}, {
+		"Id" : "026",
+		"Title" : "SQL Server 2014",
+		"Subtitle" : "Das Programmierhandbuch",
+		"Publisher" : "Galileo Press",
+		"Genre" : "Software"
+	}, {
+		"Id" : "027",
+		"Title" : "Scrum - kurz & gut",
+		"Subtitle" : "kurz & gut - O'Reillys Taschenbibliothek",
+		"Publisher" : "O'Reilly Vlg. GmbH & Co.",
+		"Genre" : "Informatik"
+	}, {
+		"Id" : "028",
+		"Title" : "Photoshop Elements 13",
+		"Subtitle" : "Der umfassende Ratgeber",
+		"Publisher" : "Rheinwerk Verlag GmbH",
+		"Genre" : "Software"
+	}
+]

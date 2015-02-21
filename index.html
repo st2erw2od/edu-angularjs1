@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-ui">
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<script src="assets/js/jquery-2.1.3.min.js"></script>
+		<script src="assets/js/angular-1.3.13.min.js"></script>
+		<script src="assets/js/fastclick.min.js"></script>
+		<script src="app/main/main.js"></script>
+		<script src="app/controllers/books-controller.js"></script>
+	</head>
+<body>
+	<div ng-app="appBooks" ng-controller="booksController">
+		<div id="books-search">
+			<div id="searchbox">
+				<input type="text" ng-model="filtersearch" />
+			</div>
+			<div id="books-sort" class="clearfix">
+				<div class="item" ng-class="{'active': order=='Title'}" ng-click="setOrder('Title')">Titel</div>
+				<div class="item" ng-class="{'active': order=='Subtitle'}" ng-click="setOrder('Subtitle')">Subtitel</div>
+				<div class="item" ng-class="{'active': order=='Genre'}" ng-click="setOrder('Genre')">Genre</div>
+				<div class="item" ng-class="{'active': order=='Publisher'}" ng-click="setOrder('Publisher')">Verlag</div>
+			</div>
+		</div>
+		<div id="books-container">
+			<div class="item clearfix" ng-repeat="x in books | orderBy:order | filter:filtersearch">
+				<div class="image">
+					<img src="img/{{x.Id}}.jpg" />
+				</div>
+				<div class="info">
+					<h2>{{x.Title}}</h2>
+					<h3>{{x.Subtitle}}</h3>
+					<p>{{x.Genre}} / {{x.Publisher}}</p>
+				</div>	
+			</div>
+		</div>
+	</div>
+</body>
+</html>

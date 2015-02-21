@@ -1,0 +1,1 @@
+$(document).ready(function() {	//remove 300ms delay on click in a mobile browser	FastClick.attach(document.body);});
